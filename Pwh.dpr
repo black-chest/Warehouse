@@ -3,7 +3,8 @@ program Pwh;
 uses
   Vcl.Forms,
   Uwh in 'Uwh.pas' {Form1},
-  U2 in 'U2.pas' {Form2};
+  U2 in 'U2.pas' {Form2},
+  U3 in 'U3.pas' {Form3};
 
 {$R *.res}
 
@@ -13,5 +14,7 @@ begin
   Application.CreateForm(TForm1, Form1);
   Application.CreateForm(TForm2, Form2);
   Application.CreateForm(TForm2, Form2);
+  Application.CreateForm(TForm3, Form3);
+  Application.CreateForm(TForm3, Form3);
   Application.Run;
 end.
