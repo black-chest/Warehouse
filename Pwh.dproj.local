@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2026/03/21 22:55:09.296,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/03/21 22:55:36.726,D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Uwh.dfm=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2026/03/21 22:55:36.726,D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Uwh.pas=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/03/21 22:55:42.677,D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Pwh.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2026/03/21 22:55:09.000.296,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/21 22:55:36.000.726,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Uwh.pas</Transaction>
+    <Transaction>2026/03/21 22:55:36.000.726,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Uwh.dfm</Transaction>
+    <Transaction>2026/03/21 22:55:42.000.677,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Pwh.dproj</Transaction>
+    <Transaction>2026/03/24 22:55:34.305,=D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Unit2.pas</Transaction>
+    <Transaction>2026/03/24 22:55:45.730,D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\U2.dfm=D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Unit2.dfm</Transaction>
+    <Transaction>2026/03/24 22:55:45.730,D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\U2.pas=D:\DATA\KELENGKAPAN\Topik Tesis\Warehouse\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>
